@@ -251,7 +251,7 @@ const App = () => {
 							<li className="list-inline-item"> - </li>
 							<li className="list-inline-item">
 								<a
-									href="https://github.com/awran5/react-typing-speed-test-game"
+									href="https://github.com/Subhamskylite/TypingTest"
 									target="_blank"
 									title="GitHub"
 									rel="noopener noreferrer"
@@ -262,7 +262,7 @@ const App = () => {
 							<li className="list-inline-item"> - </li>
 							<li className="list-inline-item">
 								<a
-									href="https://github.com/awran5/react-typing-speed-test-game/issues"
+									href="https://github.com/Subhamskylite/TypingTest/issues"
 									target="_blank"
 									title="Issues"
 									rel="noopener noreferrer"
